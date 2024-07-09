@@ -1,7 +1,12 @@
+section{
+    text-align: center;
+}
 .borderEffect {
     border: 1px solid #000;
     border-radius: 10px;
+    border-width: 5px;
     padding: 10px;
+    background-color: rgb(70, 246, 240);
   }
   
   .noBorder {
