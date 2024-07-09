@@ -1,0 +1,11 @@
+.borderEffect {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  .noBorder {
+    border: none;
+    border-radius: 0;
+    padding: 0;
+  }
