@@ -26,6 +26,9 @@ export class AppComponent {
           this.renderer.removeClass(container, 'borderEffect');
         }
       }
+
+
+      
       console.log('Button Clicked');
   }
 }
